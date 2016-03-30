@@ -1,0 +1,137 @@
+body {
+	margin: 0;
+	padding: 0;
+	<--background-color: olive;
+	
+}
+h4{
+	background-color: darkred;
+	padding:4px;
+	font-family: Arial, Verdana, sans-serif;
+	color: white;
+	
+}
+
+h5{
+	font-size: 16px;
+	font-family: Arial, Verdana, sans-serif;
+	
+}
+h6{
+	background-color: darkgray;
+	font-family: Arial, Verdana, sans-serif;
+	color: white;
+		padding:4px;
+			
+}
+
+#page
+{
+	width:840px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:50px;
+	display: block; 
+	height:auto;
+	position: relative; 
+	overflow: hidden; 
+}
+#header ul li, #header ul li a, #header ul li a:visited{
+	
+	float: right;
+	margin: 0;
+	text-align:right;
+	line-height:40x;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	padding-left:10px;
+	padding-right:10px;
+	list-style-type:left;	
+}
+
+#test
+{
+	width:921px;
+	margin-top:30px;
+	margin-bottom:14px;
+}
+#test .right
+{
+	width: 500px;
+	float: left;
+	
+}
+
+#test .left
+{
+	width: 371px;
+	float: right;
+	
+}
+
+#small
+{
+	width:921px;
+	margin-top:270px;
+	margin-bottom:14px;
+	
+	
+}
+
+#small .smaright
+{
+	width: 307px;
+	float: right;
+	
+}
+#small .middle
+{
+	width: 307px;
+	float: right;
+	
+}
+#small.smaleft
+{
+	width: 307px;
+	float: right;
+	
+}
+
+
+#footer
+{
+	width:921px;
+	margin-top:80px;
+	margin-bottom:14px;
+	
+}
+
+#footer  .footleft
+{
+	width:321px;
+	float: left;
+}
+
+
+#footer .footright
+{
+	
+	width:521px;
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
